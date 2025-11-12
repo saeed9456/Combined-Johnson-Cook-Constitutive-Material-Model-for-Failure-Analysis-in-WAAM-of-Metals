@@ -3,5 +3,5 @@ This user UMAT user subroutine implements a material model in Abaqus which predi
 
 
 ## Request Access
-If you'd like access to the private version of this code, please open an [Issue](../../issues/new?template=access-request.md) describing your request.
+If you'd like access to the private version of this code, please open an [Issue](../../issues/new?template=access-request.md) describing your request. Once a request submitted, I will provide you the codes.
 
